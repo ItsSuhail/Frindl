@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Frindl" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blueGrey</item>
+        <item name="android:autofilledHighlight" tools:targetApi="o">@android:color/transparent</item>
+    </style>
+
+    <style name="MButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@null</item>
+    </style>
+
+    <style name="Theme.Frindl" parent="Base.Theme.Frindl" />
+
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/blueGrey</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+    <style name="SpinnerTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@android:color/transparent</item>
+        <item name="boxStrokeWidth">0dp</item>
+    </style>
+
+    <style name="MyTheme" parent="Base.Theme.Frindl">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="SpinnerStyle">
+        <item name="android:backgroundTint">#202630</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:popupBackground">#202630</item>
+    </style>
+</resources>
