@@ -18,4 +18,4 @@
 This project was submitted to the HPE Hackathon held at [Codingal.com](https://codingal.com/)
 
 ### Download for Android
-[Download Frindl](https://tinyurl.com/Frindl)
+[Download Frindl](https://github.com/ItsSuhail/Frindl/raw/main/Frindl.apk)
