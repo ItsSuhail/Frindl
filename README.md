@@ -2,7 +2,7 @@
 + It is a platform where users can share their knowledge by uploading books, documents, and study material.
 + Users can create multiple libraries, and set them to public or private based on their choice.
 + Public libraries can be accessed by every user and the owner can upload books and documents to it.
-+ Private libraries can only be accessed by the owner itself.
++ Private libraries can only be accessed by the owner themself.
 + You can set password to the libraries.
 
 # Screenshots
